@@ -17,13 +17,13 @@
 
 <ul>
 	<li>train</li>
-	<li>&nbsp&&nbsp&001</li>
-	<li>&nbsp&&nbsp&002</li>
-	<li>&nbsp&&nbsp&...</li>
+	<li>&nbsp;&nbsp;001</li>
+	<li>&nbsp;&nbsp;002</li>
+	<li>&nbsp;&nbsp;...</li>
 	<li>test</li>
-	<li>&nbsp&&nbsp&001</li>
-	<li>&nbsp&&nbsp&002</li>
-	<li>&nbsp&&nbsp&...</li>
+	<li>&nbsp;&nbsp;001</li>
+	<li>&nbsp;&nbsp;002</li>
+	<li>&nbsp;&nbsp;...</li>
 </ul>
 
 4. Run preprocess_data.py file

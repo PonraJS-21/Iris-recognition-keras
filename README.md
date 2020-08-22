@@ -16,11 +16,11 @@
 3. Extract to dataset folder as train and test data in the following format
 
 <ul>
-	<li>train</li>
+	<li><b> train </b></li>
 	<li>&nbsp;&nbsp;001</li>
 	<li>&nbsp;&nbsp;002</li>
 	<li>&nbsp;&nbsp;...</li>
-	<li>test</li>
+	<li><b> test </b> </li>
 	<li>&nbsp;&nbsp;001</li>
 	<li>&nbsp;&nbsp;002</li>
 	<li>&nbsp;&nbsp;...</li>
